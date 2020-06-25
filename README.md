@@ -1,5 +1,5 @@
 # LeagueofLegendsAnalysis
-An Analysis of the game League of Legends. This analysis was published as an article on [Medium](https://blog.stata.com/2016/11/15/introduction-to-bayesian-statistics-part-2-mcmc-and-the-metropolis-hastings-algorithm/).  
+An Analysis of the game League of Legends. This analysis was published as an article on [Medium](https://medium.com/@jareddelora/analyzing-league-of-legends-bacc71f45026?sk=8a2da716c95b6ae265eb29e32b1e26c4).  
 
 ![](./images/League-of-Legends.jpeg)
 
